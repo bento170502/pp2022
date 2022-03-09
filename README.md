@@ -10,4 +10,4 @@ Student Info
 =========================
 
 * Student Name: *Nguyen Tuan Thanh*
-* Student ID: *BI11_246*
+* Student ID: *BI11-246*
